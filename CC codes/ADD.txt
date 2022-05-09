@@ -1,0 +1,17 @@
+public class addition {
+	public integer a;
+    public integer b;
+    public integer add(){
+		integer total = a+b;
+        return total;
+    
+    }
+
+
+}
+/*
+addition obj = new addition();
+obj.a = 5;
+obj.b = 10;
+integer result = obj.add();
+system.debug('REsult:'+result)*/
